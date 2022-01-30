@@ -1,0 +1,9 @@
+{
+    "policyId": "441e0ce6ac7ee8bc0ce1ba9905a829b2d716b1f2ce7826ff7bb5d59e",
+    "name": "ǤCS",
+    "symbol": "ǤCS",
+    "description": "Galactic Credit Standard | Minted in the first Mary Epoch",
+    "totalSupply": 10000000000,
+    "amounts": [100, 1000, 10000, 100000]
+    "decimalPlaces": 0
+}
